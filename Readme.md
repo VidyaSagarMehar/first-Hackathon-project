@@ -1,1 +1,2 @@
-# Hackathon For JavaScript live batch
+# Project Hackathon
+##Hackathon For JavaScript live batch

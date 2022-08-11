@@ -36,7 +36,9 @@
     width: 700px;
     margin-top: 7px;
     margin-left: 200px;
+    color: #fff;
     display: inline;
+    font-size: 15px;
     height: 30px;
   }
   .navSearchBar{
